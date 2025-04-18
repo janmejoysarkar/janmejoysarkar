@@ -4,9 +4,9 @@
 
 ## 🚀 About Me
 I'm a PhD scholar at the Inter-University Centre for Astronomy and Astrophysics and Tezpur University. I specialize in astronomical instrumentation, optics and opto-mechanics.
-Currently I work on the Solar Ultraviolet Imaging Telescope (SUIT) instrument of Aditya-L1, India's first space based dedicated solar observatory.
+Currently, I work on the Solar Ultraviolet Imaging Telescope (SUIT) instrument of Aditya-L1, India's first space-based dedicated solar observatory.
 
-On the flip side, I love mountain biking, callisthenics, and anything that calls for an adventure!
+On the flip side, I love mountain biking, calisthenics, and anything that calls for an adventure!
 
 Oh, and I use Arch, btw.
 ## 🛠 Skills
