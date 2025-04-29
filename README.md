@@ -19,7 +19,7 @@ Oh, and I use Arch, btw.
 - 📸 Zemax
 
 ## 💬 Contact
-Write to me at janmejoy.sarkar@iucaa.in 📧
+Write to me at 📧 janmejoy.sarkar@iucaa.in 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/janmejoy-sarkar-2520b923a)
