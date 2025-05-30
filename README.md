@@ -1,5 +1,5 @@
 
-# Hi, I'm Janmejoy! 👋
+# Hi, I'm Janmejoy! 🤙
 
 ## 🚀 About Me
 🎓 I'm a PhD scholar at the Inter-University Centre for Astronomy and Astrophysics and Tezpur University.
