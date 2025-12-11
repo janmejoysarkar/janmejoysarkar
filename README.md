@@ -2,7 +2,7 @@
 # Hi, I'm Janmejoy! 🤙
 
 ## 🚀 About Me
-🎓 I'm a PhD scholar at the Inter-University Centre for Astronomy and Astrophysics and Tezpur University.
+🎓 I'm a post-doctoral researcher at the Max Planck Institute for Solar System Research.
 I work with the Solar Ultraviolet Imaging Telescope (SUIT) instrument of Aditya-L1, India's first space-based dedicated solar observatory 🛰.  
 On the flip side, I love mountain biking 🚵, powerlifting 🏋, and anything that calls for an adventure ⛰!  
 And I use Arch, btw.
